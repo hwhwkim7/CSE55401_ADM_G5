@@ -1,4 +1,4 @@
-# CSE55401 AdvancedDataMining G5
+# CSE55401 Advanced Data Mining
 ###### Group 5: Hyewon Kim, Minseong Choi, Sunghyun Yang
 ## Seed-Based Community Detection Using $(k,p)$-core
 ### How to use
